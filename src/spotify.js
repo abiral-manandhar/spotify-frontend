@@ -1,6 +1,6 @@
 
 export const authEndpoint = 'https://accounts.spotify.com/authorize'
-const redirectUrl = 'http://localhost:3000/'
+const redirectUrl = 'https://abiral-manandhar.github.io/'
 const clientId = '6b27b6057da548b2aa1a84228d445f97'
 
 export const getTokenFromUrl = ()=> {
